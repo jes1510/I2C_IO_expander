@@ -13451,22 +13451,22 @@ Grid 2.54 mm&lt;p&gt;
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R1" library="rcl" deviceset="R-US_" device="R0603" value="120">
+<part name="R1" library="rcl" deviceset="R-US_" device="R0603" value="200">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R2" library="rcl" deviceset="R-US_" device="R0603" value="120">
+<part name="R2" library="rcl" deviceset="R-US_" device="R0603" value="110">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R3" library="rcl" deviceset="R-US_" device="R0603" value="4k7">
+<part name="R3" library="rcl" deviceset="R-US_" device="R0603" value="2k7">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R4" library="rcl" deviceset="R-US_" device="R0603" value="4k7">
+<part name="R4" library="rcl" deviceset="R-US_" device="R0603" value="2k7">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
